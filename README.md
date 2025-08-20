@@ -49,7 +49,7 @@ The youngest employee is 21 years old, and the oldest is 58. This indicates a ma
 - **Job Titles:** The most common job titles across the company are **Business Analyst** and **Auditor**, suggesting these roles are central to the company's operations.
 - **Geographic Presence:** The company has the largest employee presence in **California**, with significant numbers in **Texas, New York** and **Colorado**.
 ### 3️⃣ Employee Tenure & Turnover  
-- **Average Tenure (terminated employees):**The average length of employment for employees who have left the company is approximately 5 years. This suggests that turnover is not primarily an issue with new hires but may be related to mid-career stagnation or external opportunities for experienced staff. 
+- **Average Tenure (terminated employees):**The average length of employment for employees who have left the company is approximately 6 years. This suggests that turnover is not primarily an issue with new hires but may be related to mid-career stagnation or external opportunities for experienced staff. 
 - **Turnover Rate by Department (critical insight):**  
   -The analysis pinpoints a critical area of concern: the **Service department** exhibits the highest turnover rate by a significant margin.
   -Following Service, the **Hr, Accounts,** and **Training departments** also show above-average turnover rates.
@@ -64,7 +64,7 @@ Based on the analysis, the following strategic recommendations can be made to th
 1. **Target the Auditing Department**  
    - Action: Immediately conduct targeted exit interviews and manager feedback sessions within the Auditing department to identify the root causes of high turnover. Investigate factors such as workload, career progression paths, and management style.
 2. **Retention for Mid-Career Employees**  
-   - **Action:** Since the average tenure of departing employees is over 5 years, focus on creating clear career development and upskilling opportunities for experienced staff to prevent them from seeking external growth.
+   - **Action:** Since the average tenure of departing employees is over 6 years, focus on creating clear career development and upskilling opportunities for experienced staff to prevent them from seeking external growth.
 3. **Support Remote Workforce**  
    - **Action:** With 28% of the workforce being remote, HR should analyze if turnover rates differ between remote and in-office employees, especially within high-turnover departments, to ensure remote workers are fully integrated and supported.
 4. **Strengthen Diversity & Inclusion (D&I)**  
