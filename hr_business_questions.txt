@@ -1,0 +1,17 @@
+-- Questions
+-- ============
+-- What is the gender breakdown of employees in the company?
+-- What is the race/ethnicity breakdown of employees in the company?
+-- What is the age distribution of employees in the company?
+-- How many employees work at headquarters versus remote locations?
+-- What is the average length of employment for employees who have been terminated?
+-- How does the gender distribution/count vary across departments and job titles?
+-- What is the distribution/count of job titles across the company?
+-- Which department has the highest turnover rate?
+-- How does the turnover rate compare between Remote and Headquarters employees within the highest turnover department?
+-- What is the distribution/count of employees across locations by city and state?
+-- How has the company's employee count changed over time based on hire and term dates?
+-- What is the attrition rate by age group?
+-- What are the hiring trends over time? Which year had the most hires?
+-- What is the tenure distribution for current employees by department?
+-- What is the gender breakdown at different levels of job titles? (e.g., Trainee, Individual Contributor, Manager, Director)
