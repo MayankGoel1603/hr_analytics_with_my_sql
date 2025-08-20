@@ -14,7 +14,8 @@ The primary objective of this project:
 - **Database:** MySQL  
 - **Data Analysis:** SQL  
 - **Visualization:** Power BI (interactive dashboards built on cleaned data)
-- 
+- **Additional:** Python
+
 ---
 
 ## 🔄 Project Workflow  
