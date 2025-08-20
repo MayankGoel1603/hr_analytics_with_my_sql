@@ -1,0 +1,64 @@
+department,jobtitle,gender,num_of_employees
+Accounting,"Financial Analyst",Male,387
+Accounting,Accountant,Male,372
+Accounting,Accountant,Female,350
+Accounting,"Financial Analyst",Non-Conforming,25
+Accounting,"Financial Analyst",Female,364
+Accounting,Accountant,Non-Conforming,30
+"Business Development","Business Analyst",Female,684
+"Business Development","Business Analyst",Male,686
+"Business Development","Strategy Manager",Female,689
+"Business Development","Strategy Manager",Male,687
+"Business Development","Strategy Manager",Non-Conforming,58
+"Business Development","Business Analyst",Non-Conforming,55
+Engineering,"Data Scientist",Female,615
+Engineering,"DevOps Engineer",Male,592
+Engineering,"Software Engineer",Female,590
+Engineering,"Data Scientist",Non-Conforming,38
+Engineering,"Data Scientist",Male,591
+Engineering,"Software Engineer",Non-Conforming,41
+Engineering,"DevOps Engineer",Female,632
+Engineering,"DevOps Engineer",Non-Conforming,69
+Engineering,"Software Engineer",Male,596
+"Human Resources","HR Generalist",Male,204
+"Human Resources",Recruiter,Non-Conforming,13
+"Human Resources","HR Generalist",Female,232
+"Human Resources","HR Generalist",Non-Conforming,11
+"Human Resources",Recruiter,Female,230
+"Human Resources",Recruiter,Male,215
+IT,"Network Admin",Non-Conforming,27
+IT,"IT Support",Female,310
+IT,"Network Admin",Male,342
+IT,"Network Admin",Female,286
+IT,"IT Support",Non-Conforming,24
+IT,"IT Support",Male,364
+Legal,"Legal Advisor",Male,305
+Legal,"Legal Advisor",Female,267
+Legal,"Legal Advisor",Non-Conforming,18
+Marketing,"Content Creator",Female,444
+Marketing,"Content Creator",Male,467
+Marketing,"Marketing Specialist",Female,437
+Marketing,"Marketing Specialist",Male,464
+Marketing,"Marketing Specialist",Non-Conforming,30
+Marketing,"Content Creator",Non-Conforming,39
+"Research and Development","Lab Technician",Male,179
+"Research and Development","Research Scientist",Female,184
+"Research and Development","Lab Technician",Non-Conforming,12
+"Research and Development","Research Scientist",Male,165
+"Research and Development","Lab Technician",Female,189
+"Research and Development","Research Scientist",Non-Conforming,16
+Sales,"Sales Representative",Female,682
+Sales,"Sales Representative",Male,655
+Sales,"Account Manager",Female,646
+Sales,"Sales Representative",Non-Conforming,49
+Sales,"Account Manager",Non-Conforming,62
+Sales,"Account Manager",Male,670
+Services,"Customer Service Rep",Male,448
+Services,"Customer Service Rep",Female,427
+Services,"Customer Service Rep",Non-Conforming,34
+Support,"Support Specialist",Female,282
+Support,"Support Specialist",Male,282
+Support,"Support Specialist",Non-Conforming,20
+Training,"Training Specialist",Male,464
+Training,"Training Specialist",Female,469
+Training,"Training Specialist",Non-Conforming,50
